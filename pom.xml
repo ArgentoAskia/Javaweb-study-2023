@@ -10,6 +10,18 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>java-web-1-simple-start</module>
+        <module>java-web-2-1-servlet</module>
+        <module>java-web-2-2-filter</module>
+        <module>java-web-2-3-listener</module>
+        <module>java-web-3-1-jsp</module>
+        <module>java-web-3-2-jstl</module>
+        <module>java-web-3-3-el</module>
+        <module>java-web-4-1-object-request</module>
+        <module>java-web-4-2-object-response</module>
+        <module>java-web-4-3-object-cookies</module>
+        <module>java-web-4-4-object-session</module>
+        <module>java-web-4-5-object-servlet-context</module>
+        <module>java-web-5-1-xml-web-config</module>
     </modules>
 
     <dependencies>
