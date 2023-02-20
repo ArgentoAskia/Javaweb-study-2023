@@ -11,6 +11,17 @@
 
     <artifactId>java-web-1-simple-start</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>javax.servlet</groupId>
+            <artifactId>javax.servlet-api</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>javax.servlet.jsp</groupId>
+            <artifactId>javax.servlet.jsp-api</artifactId>
+        </dependency>
+    </dependencies>
+
 
 
 </project>
